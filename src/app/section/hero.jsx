@@ -13,7 +13,7 @@ export default function Hero() {
         />
       </div>
       <h1 className="text-xl sm:text-3xl font-bold mt-5 tracking-tighter">
-        👋vinzent🚀
+        👋vin rumere🚀
       </h1>
       <p className="text-center w-full max-w-md mt-5">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati autem ab atque voluptate qui suscipit, excepturi iusto, reprehenderit molestias non alias fugiat quasi nisi id veritatis iure neque distinctio quia illo tempore officiis dicta odio? Doloribus provident odio laborum facilis consectetur libero unde ipsam iste itaque vel? Perspiciatis voluptatem velit dolore id minima nihil blanditiis voluptatum. Illum odio eos quaerat nulla doloremque totam in unde eligendi, beatae ullam nam, cum quibusdam voluptatibus maiores. Numquam, aperiam? Eius illo a et quo optio at necessitatibus nostrum enim? Quos, consequatur delectus. Tempore placeat quibusdam officiis ea accusantium velit et. Esse impedit commodi numquam.
